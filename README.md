@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-Essa é uma aplicação web feita em python com Flask, o site foi construído com HTML5, JavaSctript e CSS puro. Basicamente é um site animado onde você pode brincar com uma bolinha atráves do clique do mouse, também pode ativar ou desativar a gravidade. [Bouncing Ball](https://boucing-ball.herokuapp.com/)
+Essa é uma aplicação web responsiva feita em python com Flask, o site foi construído com HTML5, JavaSctript e CSS puro. Basicamente é um site animado onde você pode brincar com uma bolinha atráves do clique do mouse e interagir com o ambiente. [Bouncing Ball](https://boucing-ball.herokuapp.com/)
 
 
 
@@ -29,6 +29,7 @@ Essa é uma aplicação web feita em python com Flask, o site foi construído co
 <!-- GETTING STARTED -->
 ## Getting Started
 
+Ao passar o mouse sobre o site, você pode ver uma linha na direção do mouse. Essa linha representa o vetor que vai impulsionar a bolinha. Ou seja, apenas clique com o mouse e lançara a bolinha na direção da linha, quanto maior a linha, mais rápido a bolinha vai ser lançada. Além disso, você pode ativar ou desativar o botão no canto superior direito. Mexendo a rodinha do mouse (whell) você pode alterar o tamanho da bolinha.
 O deploy do site já foi feito para o heroku, uma vez que isso permite que você veja a minha aplicação sem eu pagar nada. Otímo, não?
 Link para a aplicação: [Bouncing Ball](https://boucing-ball.herokuapp.com/)
 
